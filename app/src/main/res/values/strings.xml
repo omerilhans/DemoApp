@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Push Kit Demo</string>
+
+    <string name="getToken">Get Token</string>
+    <string name="deleteToken">Delete Token</string>
+    <string name="get_aaid">Get AAID</string>
+    <string name="delete_aaid">Delete AAID</string>
+</resources>
